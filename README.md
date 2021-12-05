@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! im a Student living in oregon. I sometimes will post some random stuff im working on
 
 <!--
 **3ncryptboi/3ncryptboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
