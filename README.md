@@ -1,4 +1,4 @@
-Description for the About panel on your page in under 300 characters
+HS student trying to make it
 
 
 
